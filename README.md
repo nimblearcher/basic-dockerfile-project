@@ -1,7 +1,7 @@
 My Docker Hello World Project
 This project contains a simple Dockerfile that prints "Hello, Captain!" when run.
 
-## project URL: https://github.com/nimblearcher/basic-dockerfile-project
+## Project URL: https://github.com/nimblearcher/basic-dockerfile-project
 
 
 
