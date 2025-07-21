@@ -3,6 +3,8 @@ This project contains a simple Dockerfile that prints "Hello, Captain!" when run
 
 Project URL: https://github.com/nimblearcher/basic-dockerfile-project
 
+https://github.com/nimblearcher/basic-dockerfile-project/blob/main/Dockerfile
+
 ## How to Run
 1. Clone the repository: `git clone https://github.com/nimblearcher/basic-dockerfile-project.git`
 2. Navigate into the directory: `cd basic-dockerfile-project`
