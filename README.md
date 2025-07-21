@@ -1,9 +1,10 @@
 My Docker Hello World Project
 This project contains a simple Dockerfile that prints "Hello, Captain!" when run.
 
+## project URL below
 Project URL: https://github.com/nimblearcher/basic-dockerfile-project
 
-https://github.com/nimblearcher/basic-dockerfile-project/blob/main/Dockerfile
+
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/nimblearcher/basic-dockerfile-project.git`
